@@ -3,16 +3,16 @@
   <h3><%=@data["feed"]["title"] unless @data["feed"].blank? %></h3>
 
   <table>
-    <tr><td><b>Title</b></td><td><b>Published On</b></td></tr>
+    <tr><td><b>Title</b></td><td><b>Content</b></td><td><b>Author</b></td></tr>
     <% unless @data["feed"]["entry"].blank? %>
       <%  @data["feed"] && @data["feed"]["entry"].each_with_index do |data, i|   %>
         <tr> <td><%=data["title"]%> </td>
-          ---- <td> <%=data["published"]%></td></tr>
+          ---- <td> <%=data["content"]%></td>
+             <td> <%=data["author"]["name"]%></td></tr>
       <% end  %>
     <% else %>
       <h3>No Results found</h3>
     <% end  %>
-  
 
 <% else %>
   <h3>No Results found</h3>

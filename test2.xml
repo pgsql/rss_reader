@@ -1,1 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><feed xmlns:google="http://base.google.com/ns/1.0" xml:lang="en-US" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:twitter="http://api.twitter.com/"><id>tag:search.twitter.com,2005:search/#nggs1</id><link type="text/html" href="http://search.twitter.com/search?q=%23nggs1" rel="alternate"/><link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=%23nggs1" rel="self"/><title>#nggs1 - Twitter Search</title><link type="application/opensearchdescription+xml" href="http://search.twitter.com/opensearch.xml" rel="search"/><link type="application/atom+xml" href="http://search.twitter.com/search.atom?since_id=95946268785909760&amp;q=%23nggs1" rel="refresh"/><updated>2011-07-26T19:59:15Z</updated></feed>
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:google="http://base.google.com/ns/1.0" xml:lang="en-US" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:twitter="http://api.twitter.com/">
+  <id>tag:search.twitter.com,2005:search/#nggs1</id>
+  <link type="text/html" href="http://search.twitter.com/search?q=%23nggs1" rel="alternate"/>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=%23nggs1&amp;count=10" rel="self"/>
+  <title>#nggs1 - Twitter Search</title>
+  <link type="application/opensearchdescription+xml" href="http://search.twitter.com/opensearch.xml" rel="search"/>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?count=10&amp;q=%23nggs1&amp;since_id=95931388368388097" rel="refresh"/>
+  <updated>2011-07-26T20:21:10+00:00</updated>
+</feed>
