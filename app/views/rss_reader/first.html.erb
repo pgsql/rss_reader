@@ -7,7 +7,7 @@
     <% unless @data["feed"]["entry"].blank? %>
       <%  @data["feed"] && @data["feed"]["entry"].each_with_index do |data, i|   %>
         <tr> <td><%=data["title"]%> </td>
-          ---- <td> <%=data["content"]%></td>
+          ---- <td> <%=data["content"].html_safe%></td>
              <td> <%=data["author"]["name"]%></td></tr>
       <% end  %>
     <% else %>

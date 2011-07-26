@@ -5,11 +5,31 @@
   <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=%23nggs11&amp;count=10" rel="self"/>
   <title>#nggs11 - Twitter Search</title>
   <link type="application/opensearchdescription+xml" href="http://search.twitter.com/opensearch.xml" rel="search"/>
-  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?count=10&amp;q=%23nggs11&amp;since_id=95949561230671872" rel="refresh"/>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?count=10&amp;q=%23nggs11&amp;since_id=95952281786257408" rel="refresh"/>
   <twitter:warning>since_id removed for pagination.</twitter:warning>
-  <updated>2011-07-26T20:12:12Z</updated>
+  <updated>2011-07-26T20:23:01Z</updated>
   <openSearch:itemsPerPage>15</openSearch:itemsPerPage>
-  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?max_id=95949561230671872&amp;page=2&amp;q=%23nggs11" rel="next"/>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?max_id=95952281786257408&amp;page=2&amp;q=%23nggs11" rel="next"/>
+  <entry>
+    <id>tag:search.twitter.com,2005:95952281786257408</id>
+    <published>2011-07-26T20:23:01Z</published>
+    <link type="text/html" href="http://twitter.com/LawLibGoddess/statuses/95952281786257408" rel="alternate"/>
+    <title>Since I cant' attend, i'll be living for the tweets! RT @nextgengovt: Can't believe #NGGS11 is this week. Going to be epic!</title>
+    <content type="html">Since I cant&amp;apos; attend, i&amp;apos;ll be living for the tweets! RT &lt;a href=&quot;http://twitter.com/nextgengovt&quot;&gt;@nextgengovt&lt;/a&gt;: Can&amp;apos;t believe &lt;a href=&quot;http://search.twitter.com/search?q=%23NGGS11&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NGGS11');&quot;&gt;&lt;b&gt;#NGGS11&lt;/b&gt;&lt;/a&gt; is this week. Going to be epic!</content>
+    <updated>2011-07-26T20:23:01Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/1201705844/269f87c0-3a14-4f9b-b3d4-ee09e91d70a2_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>LawLibGoddess (LawLib Goddess)</name>
+      <uri>http://twitter.com/LawLibGoddess</uri>
+    </author>
+  </entry>
   <entry>
     <id>tag:search.twitter.com,2005:95949561230671872</id>
     <published>2011-07-26T20:12:12Z</published>
@@ -288,26 +308,6 @@
     <author>
       <name>exilauren (Lauren Modeen)</name>
       <uri>http://twitter.com/exilauren</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:search.twitter.com,2005:95467396235661312</id>
-    <published>2011-07-25T12:16:15Z</published>
-    <link type="text/html" href="http://twitter.com/Donald_Knight/statuses/95467396235661312" rel="alternate"/>
-    <title>I'm looking forward to it RT @nextgengovt Can't believe #NGGS11 is this week. Going to be epic!</title>
-    <content type="html">I&amp;apos;m looking forward to it RT &lt;a href=&quot;http://twitter.com/nextgengovt&quot;&gt;@nextgengovt&lt;/a&gt; Can&amp;apos;t believe &lt;a href=&quot;http://search.twitter.com/search?q=%23NGGS11&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#NGGS11');&quot;&gt;&lt;b&gt;#NGGS11&lt;/b&gt;&lt;/a&gt; is this week. Going to be epic!</content>
-    <updated>2011-07-25T12:16:15Z</updated>
-    <link type="image/png" href="http://a1.twimg.com/profile_images/1304772478/Donald_normal.jpg" rel="image"/>
-    <twitter:geo>
-    </twitter:geo>
-    <twitter:metadata>
-      <twitter:result_type>recent</twitter:result_type>
-    </twitter:metadata>
-    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
-    <twitter:lang>en</twitter:lang>
-    <author>
-      <name>Donald_Knight (Donald Knight II)</name>
-      <uri>http://twitter.com/Donald_Knight</uri>
     </author>
   </entry>
 </feed>
